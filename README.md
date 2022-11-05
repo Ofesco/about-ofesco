@@ -1,2 +1,5 @@
-# Get to Know Me #
-I am a creative content and marketing professional with a progressive mindset, goal-oriented, self-motivated, and result-driven. I have worked with many startup companies in content creation, optimizing copies to increase brand awareness, generate inbound leads, and consequently driving up sales. As a result, I consider myself a native of the startup culture. I also have a solid academic background in psychology and economics, placing me in the spotlight in the pool of creative writers. I am also a researcher, lifelong learner, choice architect, and tech enthusiast.
+* 👋 Hi, I'm Leo, and welcome to my GitHub bio. 
+* ✍️ I'm a writer and a behavioral economist. 
+* 🦄 I have worked with many tech startups creating both technical and non-technical contents. 
+* ✈️ I love to travel, take pictures, and enjoying nature. 
+* 🔊 I love play the Jazz Drum, Bass guiter, and Piano. I all like to listen to all kinds of music except Rock Metal. 
